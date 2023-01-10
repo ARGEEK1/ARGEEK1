@@ -1,7 +1,7 @@
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMKVtlxrIjKwFDkxD4ICJnq4Hsw9yD_azO5HHh8Np4VvwZ1TIMFJSkU1iQRUx7Imaw_bbpbaHnt6AHVIIy1SioBk4TEBA=w2560-h1328" alt="Antonio Rodríguez" width="50%">
-<br><br>
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMKVtlxrIjKwFDkxD4ICJnq4Hsw9yD_azO5HHh8Np4VvwZ1TIMFJSkU1iQRUx7Imaw_bbpbaHnt6AHVIIy1SioBk4TEBA=w2560-h1328" alt="Antonio Rodríguez" width="30%">
+<br/>
 
-🚀  Full Stack Developer, actualmente formándome 💥<br/>👨🏾‍💻 La programación es lo que me apasiona, siempre dispuesto a aprender y al trabajo en equipo.
+🚀  Full Stack Developer, actualmente formándome 💥<br>👨🏾‍💻 La programación es lo que me apasiona <br> 💪 Siempre dispuesto a aprender y al trabajo en equipo.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonio-rodr%C3%ADguez-toro/) 
