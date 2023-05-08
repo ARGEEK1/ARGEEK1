@@ -5,7 +5,7 @@ Hi 👋 I'm Antonio Rodriguez, a Full Stack developer in constant evolution and 
 <hr>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonio-rodr%C3%ADguez-toro/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rodr%C3%ADguez-toro/) 
 <a href = "mailto:antonio198889@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <hr>
 
