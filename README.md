@@ -4,6 +4,9 @@
 Hi 👋 I'm Antonio Rodriguez, a Full Stack developer in constant evolution and learning. I am passionate about working in a team to achieve common goals and I enjoy facing challenges and solving problems. I am an open person and receptive to constructive criticism that allow me to correct mistakes and continue to evolve in my career as a developer. I am committed to excellence and always seek to improve my skills and knowledge to create innovative and effective solutions. 🚀
 <hr>
 
+## 💼 Portfolio 👉  💥<a href="https://antonio-rodriguez.vercel.app/" target="_blank" rel="noreferrer">Antonio Rodríguez</a>💥
+<hr>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rodr%C3%ADguez-toro/) 
 <a href = "mailto:antonio198889@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
